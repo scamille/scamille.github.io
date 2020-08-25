@@ -10,7 +10,11 @@ My name is Serge Camille and I am a software developer from Weinheim, Germany
 [github.com/scamille](https://github.com/scamille)
 [Linkedin Profile](https://www.linkedin.com/in/serge-camille-7119ba110)
 
+Main programming languages:
+C#, C++, Python
 
+Experience with the following technologies/frameworks/platforms:
+.NET, .NET Core, Entity Framework, Entity Framework Core, SQL, T-SQL, Microsoft SQL Server, Windows Forms, WPF, VB.NET, Siemens S7 protocol, OPC UA, Git, Github
 
 Open Source Projects:
 
