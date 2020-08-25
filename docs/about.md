@@ -6,9 +6,9 @@ permalink: /about/
 
 My name is Serge Camille and I am a software developer from Weinheim, Germany
 
-[sergecamille@gmail.com](mailto:sergecamille@gmail.com) \
-[github.com/scamille][https://github.com/scamille] \
-[Linkedin Profile][https://www.linkedin.com/in/serge-camille-7119ba110]
+[sergecamille@gmail.com](mailto:sergecamille@gmail.com)
+[github.com/scamille](https://github.com/scamille)
+[Linkedin Profile](https://www.linkedin.com/in/serge-camille-7119ba110)
 
 
 
