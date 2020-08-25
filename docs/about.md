@@ -4,15 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Serge Camille and I am a software developer from Weinheim, Germany
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[sergecamille@gmail.com](mailto:sergecamille@gmail.com)
+[github.com/scamille][https://github.com/scamille]
+[Linkedin Profile][https://www.linkedin.com/in/serge-camille-7119ba110]
 
 
-[jekyll-organization]: https://github.com/jekyll
+Open Source Projects:
+
+[SimulationCraft](https://github.com/simulationcraft/simc): Open-Source Combat-Simulator for MMO RPG World of Warcraft - Long term developer and project maintainer.
+
+[AutoSimC](https://github.com/SimCMinMax/AutoSimC): Python script to create multiple profiles for SimulationCraft to find Best-in-Slot and best enchants/gems/talents combinations. - Developer
